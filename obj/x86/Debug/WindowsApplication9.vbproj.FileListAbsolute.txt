@@ -1,0 +1,42 @@
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+c:\users\reza\documents\visual studio 2010\Projects\WindowsApplication9\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+D:\VB\Aplikasi\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\VB\Aplikasi\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\VB\Aplikasi\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+D:\VB\Aplikasi\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+D:\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\Browser\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+D:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+G:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+G:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+G:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+F:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+F:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+F:\Browser\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.vbproj.GenerateResource.Cache

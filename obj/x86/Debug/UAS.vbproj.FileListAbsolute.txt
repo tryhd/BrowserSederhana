@@ -1,0 +1,9 @@
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Resources.resources
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.Form1.resources
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.exe
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.xml
+C:\Users\Oki Iskandar\Desktop\UAS\WindowsApplication9\obj\x86\Debug\WindowsApplication9.pdb
